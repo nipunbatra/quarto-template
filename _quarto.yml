@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Nipun Batra"
+  title: "Quarto Template"
   navbar:
     right:
       - href: index.qmd
