@@ -8,6 +8,8 @@ website:
     right:
       - href: index.qmd
         text: Home
+      - href: blog/index.qmd
+        text: Blog
 
 
 format:
