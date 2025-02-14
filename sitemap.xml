@@ -1,7 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>https://nipunbatra.github.io/quarto-template/blog.html</loc>
+    <lastmod>2025-02-14T09:51:49.292Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nipunbatra.github.io/quarto-template/posts/welcome.html</loc>
+    <lastmod>2025-02-14T09:51:49.292Z</lastmod>
+  </url>
+  <url>
+    <loc>https://nipunbatra.github.io/quarto-template/posts/visualisation.html</loc>
+    <lastmod>2025-02-14T09:51:49.292Z</lastmod>
+  </url>
+  <url>
     <loc>https://nipunbatra.github.io/quarto-template/index.html</loc>
-    <lastmod>2025-02-14T09:40:20.468Z</lastmod>
+    <lastmod>2025-02-14T09:51:49.292Z</lastmod>
   </url>
 </urlset>
